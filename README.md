@@ -6,6 +6,9 @@ The main goal of this project is to design and implement a database according to
 ![](figure1-1.jpg)
 ### Figure 1.1 - Database Problem Solving Steps
 
+![](figure2.png)
+### Figure 2 -  EER Diagram Derived from Wireframes
+
 ## Room for improvement
 * Database can be applied to a backend framework (ie. Node, Spring Boot) and a frontend (ie. Angular, React)
 
