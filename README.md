@@ -1,5 +1,5 @@
 # 🏋🏽‍♀️ TheCave
-A project showcasing a practical application of database design &amp; implementation.
+A project showcasing a practical application of database design &amp; implementation along with UX/UI design.
 
 ## Technologies
 * [MySQL](https://dev.mysql.com/doc/)
