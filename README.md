@@ -8,7 +8,7 @@ The main goal of this project is to design and implement a database according to
 
 | Page  | Notes |
 | ------------- | ------------- |
-| Locations Page  | • #OfTimesVisitedThisMonth can be classified in a separate entity • Home Location and Other Visited Location are each seen as a subtype to the Location Type – a location branch can either be your home location or other (cannot be both)  |
+| Locations Page  | • #OfTimesVisitedThisMonth can be classified in a separate entity<br>• Home Location and Other Visited Location are each seen as a subtype to the Location Type – a location branch can either be your home location or other (cannot be both)  |
 | Content Cell  | Content Cell  |
 ### Table 1 -  Notes and Assumptions made for Designing Conceptual Model
 
