@@ -19,6 +19,10 @@ The main goal of this project is to design and implement a database according to
 ![](figure2.png)
 ### Figure 2 -  EER Diagram Derived from Wireframes
 
+![](figure3.png)
+### Figure 3 -  Relational Schema in 3rd Normal Form
+Figure 3 displays the 3rd Normal form for each relational schema derived from Figure 2. Because we have eliminated multivalued attributes, made surrogate key (ie. ClassID), and designed a well-refined EER Diagram, all the tables that shown in Figure 3 have little to no normalization methods applied.
+
 ## Room for improvement
 * Database can be applied to a backend framework (ie. Node, Spring Boot) and a frontend (ie. Angular, React)
 
