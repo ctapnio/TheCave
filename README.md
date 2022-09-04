@@ -6,6 +6,12 @@ The main goal of this project is to design and implement a database according to
 ![](figure1-1.jpg)
 ### Figure 1.1 - Database Problem Solving Steps
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+### Table 1 -  Notes and Assumptions made for Designing Conceptual Model
+
 ![](figure2.png)
 ### Figure 2 -  EER Diagram Derived from Wireframes
 
