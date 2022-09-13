@@ -136,6 +136,7 @@ CONSTRAINT CoachID_FK FOREIGN KEY (CoachID) REFERENCES Coach(CoachID)
 
 ## Room for improvement
 * Database can be applied to a backend framework (ie. Node, Spring Boot) and a frontend (ie. Angular, React)
+* Users/Authorization can be added for security(login/registration) purposes
 
 ## Technologies
 * [MySQL](https://dev.mysql.com/doc/)
